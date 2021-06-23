@@ -1,0 +1,5 @@
+dataclasses==0.8
+future==0.18.2
+numpy==1.19.5
+torch @ https://download.pytorch.org/whl/cu100/torch-1.0.1-cp36-cp36m-linux_x86_64.whl
+typing-extensions==3.10.0.0
