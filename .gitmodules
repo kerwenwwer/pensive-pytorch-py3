@@ -1,0 +1,3 @@
+[submodule "sim"]
+	path = sim
+	url = https://github.com/AItransCompetition/Live-Video-Streaming-Challenge.git
