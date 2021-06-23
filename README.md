@@ -16,7 +16,8 @@ If you use pipenv and Cuda version is 10.1
 ```
 pipenv install  #run this command in the . of this repo.
 ```
-If not , you can got (https://download.pytorch.org/whl/cu{your_cuda_version}/torch-1.1.0-cp36-cp36m-linux_x86_64.whl) to download the package.
+If not , you can got to 
+https://download.pytorch.org/whl/cu{your_cuda_version}/torch-1.1.0-cp36-cp36m-linux_x86_64.whl to download the package.
 
 For example cuda 10 then your_cuda_version will be ``cu100`` . 
 ### Python venv  
